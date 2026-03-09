@@ -1,0 +1,27 @@
+====================================
+      SOC SSH Attack Analysis
+====================================
+
+[+] Total Failed Login Attempts
+9
+
+[+] Unique Attacker IP Count
+3
+
+[+] Top Attacking IPs
+5 185.220.101.45
+2 45.33.12.55
+2 103.12.55.7
+
+[+] Top Targeted Users
+5 root
+2 admin
+2 ubuntu
+
+[+] Attack Timeline (Hour Distribution)
+4 03
+3 01
+2 02
+
+====================================
+Analysis Completed

@@ -1,0 +1,9 @@
+Jan 10 01:12:10 server sshd[1123]: Failed password for root from 185.220.101.45 port 41234 ssh2
+Jan 10 01:12:15 server sshd[1124]: Failed password for admin from 185.220.101.45 port 41235 ssh2
+Jan 10 01:12:20 server sshd[1125]: Failed password for root from 45.33.12.55 port 51234 ssh2
+Jan 10 02:05:10 server sshd[1130]: Failed password for ubuntu from 103.12.55.7 port 61234 ssh2
+Jan 10 02:05:15 server sshd[1131]: Failed password for root from 185.220.101.45 port 41240 ssh2
+Jan 10 03:11:45 server sshd[1140]: Failed password for admin from 45.33.12.55 port 51240 ssh2
+Jan 10 03:12:10 server sshd[1141]: Failed password for root from 185.220.101.45 port 41250 ssh2
+Jan 10 03:12:15 server sshd[1142]: Failed password for root from 185.220.101.45 port 41251 ssh2
+Jan 10 04:21:33 server sshd[1150]: Failed password for ubuntu from 103.12.55.7 port 61240 ssh2
